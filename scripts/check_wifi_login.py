@@ -17,12 +17,20 @@ def send_notification(message):
     except subprocess.CalledProcessError as e:
         logger.error(f"发送通知失败: {str(e)}")
 
+def launch_captive_browser():
+    """启动 captive-browser 进行门户认证"""
+    try:
+        subprocess.Popen(['captive-browser'])
+        logger.info("已启动 captive-browser")
+    except subprocess.CalledProcessError as e:
+        logger.error(f"启动 captive-browser 失败: {str(e)}")
+
 def check_internet_connection():
     """
     检查互联网连接状态
     返回True表示可以正常访问，False表示可能需要门户认证
     """
-    test_url = "https://www.baidu.com"
+    test_url = "https://www.imut.edu.cn"
     try:
         response = requests.get(test_url, timeout=5, allow_redirects=False)
         
@@ -34,12 +42,14 @@ def check_internet_connection():
             
             if original_domain != redirect_domain:
                 logger.info(f"检测到重定向到其他域名: {redirect_domain}")
+                launch_captive_browser()
                 return False
                 
         return response.status_code == 200
     
     except (requests.RequestException, socket.error) as e:
         logger.error(f"网络连接错误: {str(e)}")
+        launch_captive_browser()
         return False
 
 def get_current_wifi_ssid():
@@ -77,4 +87,4 @@ if __name__ == "__main__":
         main()
     except KeyboardInterrupt:
         logger.info("程序已终止")
-        
+    

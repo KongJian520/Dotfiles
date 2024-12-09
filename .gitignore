@@ -42,3 +42,13 @@ polybar.old/
 arkrc
 mimeapps.list
 nautilus-compare.conf
+drkonqirc
+filetypesrc
+katevirc
+kiorc
+QtProject.conf
+trashrc
+Xorg.0.log
+nvim/lazy-lock.json
+vlc/vlc-qt-interface.conf
+vlc/vlcrc
