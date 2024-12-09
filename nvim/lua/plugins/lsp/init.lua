@@ -8,6 +8,7 @@ return {
     },
     config = function()
       local lspconfig = require("lspconfig")
+      
       -- 基础 LSP 配置
       local on_attach = function(client, bufnr)
         -- 键位绑定
@@ -28,8 +29,27 @@ return {
         vim.keymap.set("n", "gr", vim.lsp.buf.references, opts)
       end
 
-      -- 加载特定语言的 LSP 配置
-      require("plugins.lsp.rust")
+      -- 设置 capabilities
+      local capabilities = vim.lsp.protocol.make_client_capabilities()
+      capabilities = require("cmp_nvim_lsp").default_capabilities(capabilities)
+
+      -- 设置 pyright
+      lspconfig.pyright.setup({
+        on_attach = on_attach,
+        capabilities = capabilities,
+        settings = {
+          python = {
+            analysis = {
+              typeCheckingMode = "basic",
+              diagnosticMode = "workspace",
+              inlayHints = {
+                variableTypes = true,
+                functionReturnTypes = true,
+              },
+            },
+          },
+        },
+      })
     end,
   },
   {
