@@ -10,4 +10,5 @@ return {
   require("plugins.treesitter"),
   require("plugins.cmp"),
   require("plugins.telescope"),
+  require("plugins.lualine"),
 }
