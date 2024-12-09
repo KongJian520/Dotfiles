@@ -18,6 +18,7 @@ return {
       local highlights = {
         PmenuSel = { bg = "#282C34", fg = "NONE" },
         Pmenu = { fg = "#C5CDD9", bg = "#22252A" },
+        CmpBorder = { fg = "#F28FAD", bg = "#22252A" },
         CmpItemAbbrDeprecated = { fg = "#7E8294", bg = "NONE", strikethrough = true },
         CmpItemAbbrMatch = { fg = "#82AAFF", bg = "NONE", bold = true },
         CmpItemAbbrMatchFuzzy = { fg = "#82AAFF", bg = "NONE", bold = true },
@@ -107,7 +108,7 @@ return {
         formatting = {
           fields = { "kind", "abbr", "menu" },
           format = function(entry, item)
-            local icons = {
+            local kind_icons = {
               Text = '  ',
               Method = '  ',
               Function = '  ',
@@ -133,17 +134,21 @@ return {
               Event = '  ',
               Operator = '  ',
               TypeParameter = '  ',
-							calc = " 󰃬 ",
             }
-						if entry.source.name == "calc" then
-							-- Get the custom icon for 'calc' source
-							-- Replace the kind glyph with the custom icon
-							item.kind = icons.calc
-						end
-
-            local kind_text = item.kind
-            item.kind = (icons[item.kind] or '')
-            item.menu = "    (" .. kind_text .. ")"
+            
+            local custom_menu_icon = {
+              calc = "󰃬 ",
+              -- 其他自定义源图标
+            }
+            
+            -- 检查是否有自定义图标
+            if custom_menu_icon[entry.source.name] then
+              item.kind = custom_menu_icon[entry.source.name]
+            else
+              item.kind = kind_icons[item.kind] or ''
+            end
+            
+            item.menu = "    (" .. item.kind .. ")"
             return item
           end,
         },
@@ -156,8 +161,14 @@ return {
         window = {
           completion = {
             winhighlight = "Normal:Pmenu,FloatBorder:Pmenu,Search:None",
-            col_offset = -3,
+            col_offset = -4,
             side_padding = 0,
+            border = "rounded",
+            scrollbar = true,
+          },
+          documentation = {
+            border = "rounded",
+            winhighlight = "Normal:Pmenu,FloatBorder:Pmenu,Search:None",
           },
         },
         view = {
