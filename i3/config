@@ -11,6 +11,7 @@ font pango:monospace 8
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
 
+
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
@@ -35,6 +36,7 @@ exec --no-startup-id /home/kongjian/.config/scripts/check_wifi_login.py &
 exec_always --no-startup-id numlockx on &
 exec_always --no-startup-id /home/kongjian/.config/conky/start_conky.sh &
 exec_always --no-startup-id ${HOME}/.config/polybar/launch.sh &
+exec_always --no-startup-id /home/kongjian/.config/scripts/power_monitor.sh &
 
 # 区域截图：同时保存到剪贴板和文件
 bindsym Print exec maim -s | tee ~/Pictures/Screenshots/$(date +%Y%m%d_%H%M%S).png | xclip -selection clipboard -t image/png
@@ -62,7 +64,22 @@ bindsym $mod+e exec dolphin &
 # kill focused window
 bindsym $mod+Shift+q kill
 bindcode $mod+40 exec /home/kongjian/.config/polybar/scripts/launcher.sh
-bindsym $mod+l exec --no-startup-id betterlockscreen -l blur
+
+
+
+# 使用模糊+暗化效果的锁屏
+bindsym $mod+l exec --no-startup-id betterlockscreen -l dimblur --blur 0.5 --dim 40
+
+# 自动锁屏设置（10分钟后锁屏，显示器30秒后关闭）
+exec --no-startup-id xidlehook \
+  --not-when-fullscreen \
+  --not-when-audio \
+  --timer 600 \
+    'betterlockscreen -l blur --off 30' \
+    ''
+
+# i3启动时更新锁屏壁纸（记得替换壁纸路径）
+exec --no-startup-id betterlockscreen -u ~/Pictures/wallpaper/bg.png --blur 0.5
 
 # change focus
 #bindsym $mod+j focus left
@@ -198,5 +215,12 @@ new_window 1pixel
 
 # Enable focus follows mouse
 focus_follows_mouse yes
+
+# 设置系统提示音
+# 使用 canberra-gtk-play 播放声音
+set $bell_sound /usr/share/sounds/freedesktop/stereo/bell.oga  # 或其他音频文件路径
+
+# 或者使用 paplay（需要安装 pulseaudio-utils）
+# bindsym $mod+1 exec --no-startup-id "paplay /path/to/your/sound.wav"; workspace number 1
 
 
