@@ -1,0 +1,44 @@
+# 浏览器数据
+google-chrome/
+
+# 输入法配置
+fcitx/
+fcitx5/
+ibus/
+go/
+jxbrowser/
+# 系统配置
+dconf/
+pulse/
+session/
+gtk-3.0/
+gtk-4.0/
+
+# IDE和编辑器
+Code/
+
+# 鼠标主题
+Cursor/
+
+# KDE相关
+dolphinrc
+kactivitymanagerdrc
+kconf_updaterc
+kde.org/
+
+# 用户目录配置
+user-dirs.dirs
+user-dirs.locale
+
+# 应用程序数据
+btop/
+htop/
+ksnip/
+
+# 临时或备份文件
+polybar.old/
+
+# 其他应用配置
+arkrc
+mimeapps.list
+nautilus-compare.conf
