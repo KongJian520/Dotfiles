@@ -17,10 +17,10 @@ map("n", "<A-Down>", "<C-w>J", { desc = "Move window to the bottom" })
 map("n", "<A-Up>", "<C-w>K", { desc = "Move window to the top" })
 
 -- Ctrl + Shift + 方向键调整窗口大小
-map("n", "<A-S-Left>", ":vertical resize -2<CR>", { desc = "Decrease window width" })
-map("n", "<A-S-Right>", ":vertical resize +2<CR>", { desc = "Increase window width" })
-map("n", "<A-S-Down>", ":resize +2<CR>", { desc = "Increase window height" })
-map("n", "<A-S-Up>", ":resize -2<CR>", { desc = "Decrease window height" })
+map("n", "<A-S-Right>", ":vertical resize -2<CR>", { desc = "Decrease window width" })
+map("n", "<A-S-Left>", ":vertical resize +2<CR>", { desc = "Increase window width" })
+map("n", "<A-S-Up>", ":resize +2<CR>", { desc = "Increase window height" })
+map("n", "<A-S-Down>", ":resize -2<CR>", { desc = "Decrease window height" })
 
 -- 基础快捷键
 map("n", "<leader>w", ":w<CR>", { desc = "Save file" })

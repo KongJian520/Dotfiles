@@ -11,4 +11,6 @@ return {
   require("plugins.cmp"),
   require("plugins.telescope"),
   require("plugins.lualine"),
+  require("plugins.mini-icons"),
+  require("plugins.neo-tree"),
 }
