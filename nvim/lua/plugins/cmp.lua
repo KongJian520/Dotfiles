@@ -8,7 +8,10 @@ return {
       "hrsh7th/cmp-buffer",      -- 缓冲区补全源
       "hrsh7th/cmp-path",        -- 路径补全源
       "L3MON4D3/LuaSnip",        -- 片段引擎
-      "saadparwaiz1/cmp_luasnip" -- LuaSnip 的补全源
+      "saadparwaiz1/cmp_luasnip", -- LuaSnip 的补全源
+      "hrsh7th/cmp-calc",        -- 数学计算补全
+      "hrsh7th/cmp-emoji",       -- 表情符号补全
+      "f3fora/cmp-spell",        -- 拼写检查建议
     },
     opts = function()
       -- 添加高亮设置
@@ -95,6 +98,9 @@ return {
           { name = "nvim_lsp" },
           { name = "luasnip" },
           { name = "path" },
+          { name = "calc" },    -- 添加计算器源
+          { name = "emoji" },   -- 添加表情符号源
+          { name = "spell" },   -- 添加拼写检查源
         }, {
           { name = "buffer" },
         }),
@@ -127,7 +133,14 @@ return {
               Event = '  ',
               Operator = '  ',
               TypeParameter = '  ',
+							calc = " 󰃬 ",
             }
+						if entry.source.name == "calc" then
+							-- Get the custom icon for 'calc' source
+							-- Replace the kind glyph with the custom icon
+							item.kind = icons.calc
+						end
+
             local kind_text = item.kind
             item.kind = (icons[item.kind] or '')
             item.menu = "    (" .. kind_text .. ")"
