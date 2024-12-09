@@ -1,4 +1,11 @@
 return {
+  -- lualine 配置放在最前面
+  {
+    "nvim-lualine/lualine.nvim",
+    lazy = false,    -- 设置为 false 使其立即加载
+    priority = 1000, -- 确保它比其他插件先加载
+  },
+  
   {
     "folke/lazy.nvim",
     dependencies = {
@@ -10,7 +17,6 @@ return {
   require("plugins.treesitter"),
   require("plugins.cmp"),
   require("plugins.telescope"),
-  require("plugins.lualine"),
   require("plugins.mini-icons"),
   require("plugins.neo-tree"),
 }
