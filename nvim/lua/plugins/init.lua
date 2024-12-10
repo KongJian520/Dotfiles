@@ -15,8 +15,6 @@ return {
 	require("plugins.null_ls"),
 	require("plugins.which-key"),
 	require("plugins.gitsigns"),
-	require("plugins.snakes"),
-	require("plugins.alpha"),
 	require("plugins.nui"),
 	require("plugins.noice"),
 	require("plugins.snacks"),

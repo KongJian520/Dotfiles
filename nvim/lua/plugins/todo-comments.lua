@@ -28,13 +28,5 @@ return {
 			test = { "Identifier", "#FF00FF" },
 		},
 	},
-  -- stylua: ignore
-  keys = {
-    { "]t", function() require("todo-comments").jump_next() end, desc = "下一个待办事项" },
-    { "[t", function() require("todo-comments").jump_prev() end, desc = "上一个待办事项" },
-    { "<leader>xt", "<cmd>TodoTrouble<cr>", desc = "待办事项 (Trouble)" },
-    { "<leader>xT", "<cmd>TodoTrouble keywords=TODO,FIX,FIXME<cr>", desc = "待办/修复/待修复 (Trouble)" },
-    { "<leader>st", "<cmd>TodoTelescope<cr>", desc = "待办事项" },
-    { "<leader>sT", "<cmd>TodoTelescope keywords=TODO,FIX,FIXME<cr>", desc = "待办/修复/待修复" },
-  },
+	-- stylua: ignore
 }

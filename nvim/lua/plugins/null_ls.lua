@@ -4,7 +4,7 @@ return {
 		event = { "BufReadPre", "BufNewFile" },
 		dependencies = { "mason.nvim" },
 		opts = function()
-			local null_ls = require("null_ls")
+			local null_ls = require("null-ls")
 			return {
 				autostart = true,
 				sources = {

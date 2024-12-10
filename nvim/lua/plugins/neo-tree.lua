@@ -7,15 +7,6 @@ return {
 		"MunifTanjim/nui.nvim",
 	},
 	cmd = "Neotree",
-	keys = {
-		{
-			"<leader>e",
-			function()
-				require("neo-tree.command").execute({ toggle = true })
-			end,
-			desc = "打开文件树",
-		},
-	},
 	opts = {
 		sources = { "filesystem", "buffers", "git_status" },
 		open_files_do_not_replace_types = { "terminal", "Trouble", "trouble", "qf", "Outline" },

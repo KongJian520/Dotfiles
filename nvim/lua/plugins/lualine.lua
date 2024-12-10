@@ -15,7 +15,6 @@ return {
 	opts = function()
 		local colors = require("config.color").colors
 		local mode_colors = require("config.color").mode_colors
-
 		-- 自定义主题
 		local custom_theme = {
 			normal = {
@@ -44,7 +43,7 @@ return {
 
 		local icons = {
 			diagnostics = {
-				Error = " ",
+				Error = "󰫲",
 				Warn = " ",
 				Hint = " ",
 				Info = " ",
@@ -62,9 +61,9 @@ return {
 			options = {
 				theme = custom_theme,
 				globalstatus = vim.o.laststatus == 3,
-				disabled_filetypes = { statusline = { "dashboard", "alpha", "ministarter", "snacks_dashboard" } },
-				component_separators = { left = "", right = " " },
-				section_separators = { left = "", right = " " },
+				disabled_filetypes = { "NvimTree", "Trouble" },
+				component_separators = { left = "", right = "" },
+				section_separators = { left = "", right = " " },
 			},
 			sections = {
 				lualine_a = { "mode" },

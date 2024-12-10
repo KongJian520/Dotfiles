@@ -25,11 +25,5 @@ return {
 				},
 			},
 		},
-		keys = {
-			-- 自定义快捷键
-			{ "<leader>tf", "<cmd>ToggleTerm direction=float<cr>", desc = "浮动终端" },
-			{ "<leader>th", "<cmd>ToggleTerm direction=horizontal<cr>", desc = "水平终端" },
-			{ "<leader>tv", "<cmd>ToggleTerm direction=vertical<cr>", desc = "垂直终端" },
-		},
 	},
 }
