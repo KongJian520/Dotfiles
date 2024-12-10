@@ -21,3 +21,5 @@ vim.g.loaded_netrwPlugin = 1
 vim.diagnostic.config({
 	update_in_insert = true,
 })
+vim.g.loaded_ruby_provider = 0
+vim.g.loaded_perl_provider = 0

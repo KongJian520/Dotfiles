@@ -1,6 +1,9 @@
 return {
 	"folke/which-key.nvim",
 	event = "VeryLazy",
+	dependencies = {
+		'echasnovski/mini.icons'
+	},
 	opts_extend = { "spec" },
 	opts = {
 		defaults = {},
