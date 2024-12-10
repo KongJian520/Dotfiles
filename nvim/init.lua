@@ -18,9 +18,7 @@ require("config.options")
 require("config.keymaps")
 require("config.autocmds")
 
--- 禁用内置的文件浏览器
-vim.g.loaded_netrw = 1
-vim.g.loaded_netrwPlugin = 1
+
 
 -- 初始化 lazy.nvim
 require("lazy").setup("plugins", {
@@ -31,7 +29,3 @@ require("lazy").setup("plugins", {
 	},
 })
 
--- 配置诊断信息在插入模式下也显示
-vim.diagnostic.config({
-	update_in_insert = true,
-})
