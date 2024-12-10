@@ -2,14 +2,14 @@
 -- 基础设置
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not vim.loop.fs_stat(lazypath) then
-  vim.fn.system({
-    "git",
-    "clone",
-    "--filter=blob:none",
-    "https://github.com/folke/lazy.nvim.git",
-    "--branch=stable",
-    lazypath,
-  })
+	vim.fn.system({
+		"git",
+		"clone",
+		"--filter=blob:none",
+		"https://github.com/folke/lazy.nvim.git",
+		"--branch=stable",
+		lazypath,
+	})
 end
 vim.opt.rtp:prepend(lazypath)
 
@@ -24,16 +24,14 @@ vim.g.loaded_netrwPlugin = 1
 
 -- 初始化 lazy.nvim
 require("lazy").setup("plugins", {
-  performance = {
-    rtp = {
-      reset = false,
-    },
-  },
+	performance = {
+		rtp = {
+			reset = false,
+		},
+	},
 })
-
-
 
 -- 配置诊断信息在插入模式下也显示
 vim.diagnostic.config({
-  update_in_insert = true,
+	update_in_insert = true,
 })

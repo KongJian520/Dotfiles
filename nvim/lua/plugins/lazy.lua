@@ -1,6 +1,6 @@
 return {
-  "folke/lazy.nvim",
-  dependencies = {
-    "rcarriga/nvim-notify",
-  },
+	"folke/lazy.nvim",
+	dependencies = {
+		"rcarriga/nvim-notify",
+	},
 }

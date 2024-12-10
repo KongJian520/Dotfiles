@@ -1,28 +1,28 @@
 return {
 
-  "lewis6991/gitsigns.nvim",
-  event = { "BufReadPre", "BufNewFile", "BufWritePost" },
-  opts = {
-    signs = {
-      add = { text = "▎" },
-      change = { text = "▎" },
-      delete = { text = "" },
-      topdelete = { text = "" },
-      changedelete = { text = "▎" },
-      untracked = { text = "▎" },
-    },
-    signs_staged = {
-      add = { text = "▎" },
-      change = { text = "▎" },
-      delete = { text = "" },
-      topdelete = { text = "" },
-      changedelete = { text = "▎" },
-    },
-    on_attach = function(buffer)
-      local gs = package.loaded.gitsigns
-      local function map(mode, l, r, desc)
-        vim.keymap.set(mode, l, r, { buffer = buffer, desc = desc })
-      end
+	"lewis6991/gitsigns.nvim",
+	event = { "BufReadPre", "BufNewFile", "BufWritePost" },
+	opts = {
+		signs = {
+			add = { text = "▎" },
+			change = { text = "▎" },
+			delete = { text = "" },
+			topdelete = { text = "" },
+			changedelete = { text = "▎" },
+			untracked = { text = "▎" },
+		},
+		signs_staged = {
+			add = { text = "▎" },
+			change = { text = "▎" },
+			delete = { text = "" },
+			topdelete = { text = "" },
+			changedelete = { text = "▎" },
+		},
+		on_attach = function(buffer)
+			local gs = package.loaded.gitsigns
+			local function map(mode, l, r, desc)
+				vim.keymap.set(mode, l, r, { buffer = buffer, desc = desc })
+			end
       -- stylua: ignore start
       map("n", "]h", function()
         if vim.wo.diff then
@@ -51,21 +51,21 @@ return {
       map("n", "<leader>ghd", gs.diffthis, "Diff This")
       map("n", "<leader>ghD", function() gs.diffthis("~") end, "Diff This ~")
       map({ "o", "x" }, "ih", ":<C-U>Gitsigns select_hunk<CR>", "GitSigns Select Hunk")
-    end,
-  },
-  {
-    "gitsigns.nvim",
-    opts = function()
-      local Snacks = require("snacks")
-      Snacks.toggle({
-        name = "Git Signs",
-        get = function()
-          return require("gitsigns.config").config.signcolumn
-        end,
-        set = function(state)
-          require("gitsigns.config").config.signcolumn = state
-        end,
-      })
-    end,
-  },
+		end,
+	},
+	{
+		"gitsigns.nvim",
+		opts = function()
+			local Snacks = require("snacks")
+			Snacks.toggle({
+				name = "Git Signs",
+				get = function()
+					return require("gitsigns.config").config.signcolumn
+				end,
+				set = function(state)
+					require("gitsigns.config").config.signcolumn = state
+				end,
+			})
+		end,
+	},
 }
