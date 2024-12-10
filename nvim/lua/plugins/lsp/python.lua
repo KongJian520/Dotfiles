@@ -18,6 +18,7 @@ return {
           },
         },
       },
+      update_in_insert = true,  -- 确保在插入模式下也显示诊断信息
     },
   },
   {
@@ -89,5 +90,16 @@ return {
         { "<leader>cv", "<cmd>VenvSelect<cr>" },
       },
   },
-  
-} 
+  {
+    "williamboman/mason.nvim",
+    opts = {
+      ensure_installed = { "pyright", "black", "ruff" },
+    },
+  },
+  {
+    "williamboman/mason-lspconfig.nvim",
+    opts = {
+      ensure_installed = { "pyright" },
+    },
+  },
+}

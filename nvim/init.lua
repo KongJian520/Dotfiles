@@ -29,3 +29,10 @@ require("lazy").setup("plugins", {
     },
   },
 })
+
+
+
+-- 配置诊断信息在插入模式下也显示
+vim.diagnostic.config({
+  update_in_insert = true,
+})
