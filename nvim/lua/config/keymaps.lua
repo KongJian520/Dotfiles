@@ -1,5 +1,4 @@
 local map = vim.keymap.set
- 
 -- 设置 leader 键
 vim.g.mapleader = " "
 -- 禁用 q: 快捷键

@@ -17,4 +17,7 @@ return {
   require("plugins.gitsigns"),
   require("plugins.snakes"),
   require("plugins.alpha"),
+  require("plugins.nui"),
+  require("plugins.noice"),
+  require("plugins.snacks")
 }

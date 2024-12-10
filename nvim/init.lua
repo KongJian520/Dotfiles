@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-global
 -- 基础设置
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not vim.loop.fs_stat(lazypath) then
