@@ -15,4 +15,6 @@ return {
   require("plugins.null-ls"),
   require("plugins.which-key"),
   require("plugins.gitsigns"),
+  require("plugins.snakes"),
+  require("plugins.alpha"),
 }

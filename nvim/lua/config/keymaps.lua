@@ -2,7 +2,10 @@ local map = vim.keymap.set
  
 -- 设置 leader 键
 vim.g.mapleader = " "
-
+-- 禁用 q: 快捷键
+map('n', 'q:', '<nop>', { silent = true })
+-- 禁用命令行窗口中的 Ctrl-F
+map('c', '<C-f>', '<nop>', { silent = true })
 -- 窗口控制快捷键
 -- Ctrl + 方向键切换窗口焦点
 map("n", "<C-Left>", "<C-w>h", { desc = "Go to left window" })
@@ -42,3 +45,4 @@ map("n", "<space>D", vim.lsp.buf.type_definition, lsp_opts)
 map("n", "<space>rn", vim.lsp.buf.rename, lsp_opts)
 map("n", "<space>ca", vim.lsp.buf.code_action, lsp_opts)
 map("n", "gr", vim.lsp.buf.references, lsp_opts)
+
