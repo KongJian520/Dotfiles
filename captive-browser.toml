@@ -11,7 +11,7 @@ browser = """
     --proxy-server="socks5://$PROXY" \
     --host-resolver-rules="MAP * ~NOTFOUND , EXCLUDE localhost" \
     --no-first-run --new-window --incognito \
-    http://example.com
+    https://www.imut.edu.cn
 """
 
 # dhcp-dns is the shell (/bin/sh) command executed to obtain the DHCP
