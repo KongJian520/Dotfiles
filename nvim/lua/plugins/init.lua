@@ -23,4 +23,5 @@ return {
   require("plugins.todo-comments"),
   require("plugins.mason"),
   require("plugins.null-ls"),
+  require("plugins.which-key"),
 }
