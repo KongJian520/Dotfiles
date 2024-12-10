@@ -7,8 +7,8 @@ return {
     -- 配置关键字
     keywords = {
       FIX = {
-        icon = " ", -- 用于标识修复问题的图标
-        color = "error", -- 可以是颜色名称或十六进制值
+        icon = " ",                                 -- 用于标识修复问题的图标
+        color = "error",                            -- 可以是颜色名称或十六进制值
         alt = { "FIXME", "BUG", "FIXIT", "ISSUE" }, -- 同义词列表
       },
       TODO = { icon = " ", color = "info" },
@@ -37,4 +37,4 @@ return {
     { "<leader>st", "<cmd>TodoTelescope<cr>", desc = "待办事项" },
     { "<leader>sT", "<cmd>TodoTelescope keywords=TODO,FIX,FIXME<cr>", desc = "待办/修复/待修复" },
   },
-} 
+}

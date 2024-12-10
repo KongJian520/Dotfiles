@@ -3,4 +3,4 @@ return {
   dependencies = {
     "rcarriga/nvim-notify",
   },
-} 
+}

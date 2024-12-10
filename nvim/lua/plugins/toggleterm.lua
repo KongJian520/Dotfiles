@@ -13,7 +13,7 @@ return {
       start_in_insert = true,
       insert_mappings = true,
       persist_size = true,
-      direction = "float",  -- 可选值: vertical | horizontal | tab | float
+      direction = "float", -- 可选值: vertical | horizontal | tab | float
       close_on_exit = true,
       shell = vim.o.shell,
       float_opts = {
@@ -32,4 +32,4 @@ return {
       { "<leader>tv", "<cmd>ToggleTerm direction=vertical<cr>", desc = "垂直终端" },
     },
   }
-} 
+}
