@@ -1,5 +1,7 @@
 return {
   "nvim-lualine/lualine.nvim",
+  lazy = false,    -- 设置为 false 使其立即加载
+  priority = 1000, -- 确保它比其他插件先加载
   event = "VeryLazy",
   dependencies = { "nvim-tree/nvim-web-devicons" },
   init = function()

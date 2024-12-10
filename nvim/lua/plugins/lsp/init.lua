@@ -33,6 +33,9 @@ return {
       local capabilities = vim.lsp.protocol.make_client_capabilities()
       capabilities = require("cmp_nvim_lsp").default_capabilities(capabilities)
 
+      -- 加载各语言 LSP 配置
+      require("plugins.lsp.lua")(on_attach, capabilities)
+      
       -- 设置 pyright
       lspconfig.pyright.setup({
         on_attach = on_attach,
