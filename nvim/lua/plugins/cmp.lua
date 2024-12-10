@@ -108,47 +108,48 @@ return {
 				formatting = {
 					fields = { "kind", "abbr", "menu" },
 					format = function(entry, item)
-						local kind_icons = {
-							Text = "  ",
-							Method = "  ",
-							Function = "  ",
-							Constructor = "  ",
-							Field = "  ",
-							Variable = "  ",
-							Class = "  ",
-							Interface = "  ",
-							Module = "  ",
-							Property = "  ",
-							Unit = "  ",
-							Value = "  ",
-							Enum = "  ",
-							Keyword = "  ",
-							Snippet = "  ",
-							Color = "  ",
-							File = "  ",
-							Reference = "  ",
-							Folder = "  ",
-							EnumMember = "  ",
-							Constant = "  ",
-							Struct = "  ",
-							Event = "  ",
-							Operator = "  ",
-							TypeParameter = "  ",
+						local icons = {
+							Text = { icon = "  ", text = "TEXT" },
+							Method = { icon = "  ", text = "Method" },
+							Function = { icon = "  ", text = "Func" },
+							Constructor = { icon = "  ", text = "Constructor" },
+							Field = { icon = "  ", text = "字段" },
+							Variable = { icon = "  ", text = "Var" },
+							Class = { icon = "  ", text = "Class" },
+							Interface = { icon = "  ", text = "IF" },
+							Module = { icon = "  ", text = "MOD" },
+							Property = { icon = "  ", text = "Prop" },
+							Unit = { icon = "  ", text = "Unit" },
+							Value = { icon = "  ", text = "Val" },
+							Enum = { icon = "  ", text = "Enum" },
+							Keyword = { icon = "  ", text = "Key" },
+							Snippet = { icon = "  ", text = "Snippet" },
+							Color = { icon = "  ", text = "Color" },
+							File = { icon = "  ", text = "File" },
+							Reference = { icon = "  ", text = "Refe" },
+							Folder = { icon = "  ", text = "Folder" },
+							EnumMember = { icon = "  ", text = "EnumM" },
+							Constant = { icon = "  ", text = "Const" },
+							Struct = { icon = "  ", text = "Struc" },
+							Event = { icon = "  ", text = "Event" },
+							Operator = { icon = "  ", text = "OP" },
+							TypeParameter = { icon = "  ", text = "TPar" },
+						}
+						
+						-- 使用图标和自定义文字
+						item.kind = icons[item.kind].icon .. string.sub(icons[item.kind].text, 1, 4)
+
+						local widths = {
+							abbr = vim.g.cmp_widths and vim.g.cmp_widths.abbr or 40,
+							menu = vim.g.cmp_widths and vim.g.cmp_widths.menu or 30,
 						}
 
-						local custom_menu_icon = {
-							calc = "󰃬 ",
-							-- 其他自定义源图标
-						}
-
-						-- 检查是否有自定义图标
-						if custom_menu_icon[entry.source.name] then
-							item.kind = custom_menu_icon[entry.source.name]
-						else
-							item.kind = kind_icons[item.kind] or ""
+						for key, width in pairs(widths) do
+							if item[key] and vim.fn.strdisplaywidth(item[key]) > width then
+								item[key] = vim.fn.strcharpart(item[key], 0, width - 1) .. "…"
+							end
 						end
 
-						item.menu = "    (" .. item.kind .. ")"
 						return item
 					end,
 				},

@@ -10,7 +10,6 @@ return {
 	require("plugins.snacks"),
 	require("plugins.lualine"),
 	require("plugins.gitsigns"),
-	require("plugins.null_ls"),
 	require("plugins.neo-tree"),
 	require("plugins.telescope"),
 	require("plugins.treesitter"),
