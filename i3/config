@@ -16,13 +16,8 @@ font pango:monospace 8
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
 exec_always --no-startup-id xrandr --output DP-4 --mode 2560x1440 --rate 165 --primary
-#exec_always --no-startup-id xrandr --output HDMI-0 --auto --right-of DP-4
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
-
-# xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
-# screen before suspend. Use loginctl lock-session to lock your screen.
-exec --no-startup-id xss-lock --transfer-sleep-lock -- betterlockscreen --nofork
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
@@ -33,7 +28,6 @@ exec_always --no-startup-id picom &
 exec --no-startup-id fcitx5 &
 exec --no-startup-id feh --bg-fill -no-fehbg ~/Pictures/wallpaper/bg.png &
 exec --no-startup-id rofi-polkit-agent &
-exec --no-startup-id /home/kongjian/.config/scripts/check_wifi_login.py &
 exec_always --no-startup-id numlockx on &
 exec_always --no-startup-id /home/kongjian/.config/conky/start_conky.sh &
 exec_always --no-startup-id ${HOME}/.config/polybar/launch.sh &
@@ -61,26 +55,14 @@ floating_modifier $mod
 tiling_drag modifier titlebar
 # start a terminal
 bindsym $mod+Return exec kitty &
-bindsym $mod+e exec dolphin &
+bindsym $mod+e exec nemo &
 # kill focused window
 bindsym $mod+Shift+q kill
 bindcode $mod+40 exec /home/kongjian/.config/polybar/scripts/launcher.sh
 
 
-
 # 使用模糊+暗化效果的锁屏
 bindsym $mod+l exec --no-startup-id betterlockscreen -l dimblur --blur 0.5 --dim 40
-
-# 自动锁屏设置（10分钟后锁屏，显示器30秒后关闭）
-exec --no-startup-id xidlehook \
-  --not-when-fullscreen \
-  --not-when-audio \
-  --timer 600 \
-    'betterlockscreen -l blur --off 30' \
-    ''
-
-# i3启动时更新锁屏壁纸（记得替换壁纸路径）
-exec --no-startup-id betterlockscreen -u ~/Pictures/wallpaper/bg.png --blur 0.5
 
 # change focus
 #bindsym $mod+j focus left
@@ -212,7 +194,7 @@ gaps outer 4
 
 for_window [class="^.*"] border pixel 0
 
-new_window 1pixel 
+new_window pixel 
 
 # Enable focus follows mouse
 focus_follows_mouse yes
@@ -224,4 +206,5 @@ set $bell_sound /usr/share/sounds/freedesktop/stereo/bell.oga  # 或其他音频
 # 或者使用 paplay（需要安装 pulseaudio-utils）
 # bindsym $mod+1 exec --no-startup-id "paplay /path/to/your/sound.wav"; workspace number 1
 
+for_window [class="org.gnome.FileRoller"] floating enable
 

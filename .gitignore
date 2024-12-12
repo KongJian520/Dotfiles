@@ -56,3 +56,21 @@ composer/keys.dev.pub
 composer/keys.tags.pub
 
 Kingsoft/
+baloofileinformationrc
+baloofilerc
+bluedevilglobalrc
+gtkrc
+gtkrc-2.0
+kactivitymanagerd-statsrc
+kded5rc
+kdeglobals
+kglobalshortcutsrc
+ksmserverrc
+ktimezonedrc
+kwinrc
+kxkbrc
+plasma-localerc
+powermanagementprofilesrc
+plasma-welcomerc
+plasma-org.kde.plasma.desktop-appletsrc
+plasmashellrc
