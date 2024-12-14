@@ -1,6 +1,19 @@
 # 浏览器数据
 google-chrome/
 
+qBittorrent/
+fontconfig/
+github-copilot/
+glow/
+JetBrains/
+kdedefaults/
+Motrix/
+obs-studio/
+yakit/
+obsidian/
+libaccounts-glib/
+.idea/
+
 # 输入法配置
 fcitx/
 fcitx5/
@@ -74,3 +87,5 @@ powermanagementprofilesrc
 plasma-welcomerc
 plasma-org.kde.plasma.desktop-appletsrc
 plasmashellrc
+Trolltech.conf
+kwinoutputconfig.json

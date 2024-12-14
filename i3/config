@@ -33,6 +33,9 @@ exec_always --no-startup-id /home/kongjian/.config/conky/start_conky.sh &
 exec_always --no-startup-id ${HOME}/.config/polybar/launch.sh &
 exec_always --no-startup-id /home/kongjian/.config/scripts/power_monitor.sh &
 
+# 检测显示器
+exec_always --no-startup-id ${HOME}/.config/i3/DP2.sh
+
 # 区域截图：同时保存到剪贴板和文件
 bindsym Print exec maim -s | tee ~/Pictures/Screenshots/$(date +%Y%m%d_%H%M%S).png | xclip -selection clipboard -t image/png
 
@@ -60,8 +63,6 @@ bindsym $mod+e exec nemo &
 bindsym $mod+Shift+q kill
 bindcode $mod+40 exec /home/kongjian/.config/polybar/scripts/launcher.sh
 
-# 使用模糊+暗化效果的锁屏
-bindsym $mod+l exec --no-startup-id betterlockscreen -l dimblur --blur 0.5 --dim 40
 
 # change focus
 #bindsym $mod+j focus left
@@ -156,35 +157,6 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+p exec "i3-nagbar -t warning -m '退出X会话?' -B 'Yes, exit i3' 'i3-msg exit'"
-
-# resize window (you can also use the mouse for that)
-mode "resize" {
-        # These bindings trigger as soon as you enter the resize mode
-
-        # Pressing left will shrink the window’s width.
-        # Pressing right will grow the window’s width.
-        # Pressing up will shrink the window’s height.
-        # Pressing down will grow the window’s height.
-        bindsym j resize shrink width 10 px or 10 ppt
-        bindsym k resize grow height 10 px or 10 ppt
-        bindsym l resize shrink height 10 px or 10 ppt
-        bindsym semicolon resize grow width 10 px or 10 ppt
-
-        # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 10 px or 10 ppt
-        bindsym Down resize grow height 10 px or 10 ppt
-        bindsym Up resize shrink height 10 px or 10 ppt
-        bindsym Right resize grow width 10 px or 10 ppt
-
-        # back to normal: Enter or Escape or $mod+r
-        bindsym Return mode "default"
-        bindsym Escape mode "default"
-        bindsym $mod+r mode "default"
-}
-
-# bindsym $mod+r mode "resize"
-
-
 
 default_border pixel
 
