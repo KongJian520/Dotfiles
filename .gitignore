@@ -1,6 +1,7 @@
 # 浏览器数据
 google-chrome/
 
+
 qBittorrent/
 fontconfig/
 github-copilot/
@@ -89,3 +90,8 @@ plasma-org.kde.plasma.desktop-appletsrc
 plasmashellrc
 Trolltech.conf
 kwinoutputconfig.json
+/.android/
+/.wrangler/
+/afrog/
+/baidunetdisk/
+/ccache/

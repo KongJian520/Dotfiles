@@ -34,7 +34,7 @@ exec_always --no-startup-id ${HOME}/.config/polybar/launch.sh &
 exec_always --no-startup-id /home/kongjian/.config/scripts/power_monitor.sh &
 
 # 检测显示器
-exec_always --no-startup-id ${HOME}/.config/i3/DP2.sh
+#exec_always --no-startup-id ${HOME}/.config/i3/DP2.sh
 
 # 区域截图：同时保存到剪贴板和文件
 bindsym Print exec maim -s | tee ~/Pictures/Screenshots/$(date +%Y%m%d_%H%M%S).png | xclip -selection clipboard -t image/png
@@ -177,5 +177,14 @@ set $bell_sound /usr/share/sounds/freedesktop/stereo/bell.oga  # 或其他音频
 # 或者使用 paplay（需要安装 pulseaudio-utils）
 # bindsym $mod+1 exec --no-startup-id "paplay /path/to/your/sound.wav"; workspace number 1
 
+for_window [class="JidePopup"] floating enable
 for_window [class="org.gnome.FileRoller"] floating enable
+for_window [class="feh"] floating enable
+for_window [class="wechat" title="wechat"] floating enable, border pixel 1
+for_window [class="wechat" title=".*聊天记录.*"] floating enable
+for_window [title="预览"] floating enable
+for_window [class="jetbrains-rustrover" title="RustRover"] floating enable
+for_window [class="jetbrains-pycharm" title="PyCharm"] floating enable
+for_window [class="fcitx5-config-qt"] floating enable
+for_window [class="net.rebeyond.behinder.ui.Main" ] floating enable
 
