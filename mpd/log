@@ -1,0 +1,636 @@
+Feb 23 22:14 : exception: Failed to open '/home/kongjian/.mpd/state': No such file or directory
+Feb 23 22:22 : exception: Failed to open '/home/kongjian/.mpd/state': No such file or directory
+Feb 23 22:22 : exception: Failed to open '/home/kongjian/.mpd/state': No such file or directory
+Feb 23 22:28 : zeroconf: No global port, disabling zeroconf
+Feb 23 22:39 : player: played "http://d1.music.126.net/dmusic/2f41/9993/5062/195ab563e5674e0d5ab099b9650c243a.flac"
+Feb 23 22:39 : player: played "http://m7.music.126.net/20250223230402/3bb0978ab9aae79b50944e54f5401547/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/29883804564/941d/2ed1/0471/fdf70ae28cdf9679f6bb70e4138580a3.flac?vuutv=k5NYds2zNxsUoFBQkyoYdqaxU30suYpPCvyUmu61GiktI1d8hPzofhOhvBNkvqr1qzrKWK82RHwww78SpRFhMnBXFGdAVva2yoRKgMOsz80="
+Feb 23 23:15 : update: added CloudMusic/Various Artists/最新热歌慢摇96/SHK - Halloween Party.mp3
+Feb 23 23:15 : update: added CloudMusic/Various Artists/DJMAX Portable Clazziquai Edition/DJMAX - Ask to wind.mp3
+Feb 23 23:15 : update: added CloudMusic/Various Artists/最新热歌慢摇60/Eyemedia - Bloody Purity.mp3
+Feb 23 23:15 : update: added CloudMusic/Various Artists/最新热歌慢摇109/Noka - Epic Sax Guy.mp3
+Feb 23 23:15 : update: added CloudMusic/Various Artists/Pepsi Sounds Of The 90s Generation/Haddaway - What Is Love.mp3
+Feb 23 23:15 : update: added CloudMusic/Vanguard Sound/Quantum Labyrinth/Vanguard Sound - Quantum Labyrinth Extended Ver.mp3
+Feb 23 23:15 : update: added CloudMusic/V.A/DJMAX Respect O.S.T/V.A. - Glory day (Extended Version).mp3
+Feb 23 23:15 : update: added CloudMusic/V.A/Groundbreaking -BOFU2017 COMPILATION ALBUM Disc A/Kankitsu - 8bit Adventurer.mp3
+Feb 23 23:15 : update: added CloudMusic/V.A/Groundbreaking -BOFU2016 COMPILATION ALBUM- Disc2/RiraN - Unshakable.mp3
+Feb 23 23:15 : update: added CloudMusic/V.A/最新热歌慢摇87/小林信一 - To Further Dream.mp3
+Feb 23 23:15 : update: added CloudMusic/V.A/Groundbreaking -BOFU2017 COMPILATION ALBUM/lixound - Break Through The Barrier.mp3
+Feb 23 23:15 : update: added CloudMusic/V.A/Groundbreaking -BOFU2017 COMPILATION ALBUM/Sound Souler - Dead Soul (Long.ver).mp3
+Feb 23 23:15 : update: added CloudMusic/V.A/Groundbreaking -BOFU2017 COMPILATION ALBUM/Chicala Lpis - Blackest Luxury Car.long.mp3
+Feb 23 23:15 : update: added CloudMusic/黒皇帝 - Chronostasis.mp3
+Feb 23 23:15 : update: added CloudMusic/M2U/Masquerade/M2U - Masquerade.mp3
+Feb 23 23:15 : update: added CloudMusic/Jiaye/Astronomia (Jiaye Bootleg)/Jiaye - Tony Igy-Astronomia（Jiaye remix）.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/M-Project/Project：Powerstomp 3/Jonjo,M-Project - Pure Powerstomper.mp3
+Feb 23 23:15 : update: added CloudMusic/Sound Souler - Paradise.mp3
+Feb 23 23:15 : update: added CloudMusic/Reol,Giga - No title.mp3
+Feb 23 23:15 : update: added CloudMusic/Deepshout/ViRUS/Deepshout - ViRUS.mp3
+Feb 23 23:15 : update: added CloudMusic/ginkiha/Shade of Mythology/ginkiha - Fading Star.mp3
+Feb 23 23:15 : update: added CloudMusic/Rising Sun Traxx/Distorted Twins mini/SOTUI,Kry.exe - What's Your PR.Ice？.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/Frums/dimensionalize nervous breakdown (rev.flat)/Frums - dimensionalize nervous breakdown (rev.flat).mp3
+Feb 23 23:15 : update: added CloudMusic/Frums/VIS：：CRACKED/Frums - VIS：：CRACKED.mp3
+Feb 23 23:15 : update: added CloudMusic/KIVΛ/Qualia/KIVΛ - Qualia.mp3
+Feb 23 23:15 : update: added CloudMusic/KIVΛ/Cytus II Opening - The Whole Rest/KIVΛ - Cytus II Opening - The Whole Rest.mp3
+Feb 23 23:15 : update: added CloudMusic/KIVΛ/Cytus II Theme - Used to be/KIVΛ - Cytus II Theme - Used to be.mp3
+Feb 23 23:15 : update: added CloudMusic/Sound Souler/World Against/Sound Souler - Reinvent.mp3
+Feb 23 23:15 : update: added CloudMusic/Kirara Records/Kirara Anthems vol.3/O2i3 - Heart Function.mp3
+Note: Illegal Audio-MPEG-Header 0xffe50221 at offset 13971.
+Note: Trying to resync...
+Note: Skipped 11 bytes in input.
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/Kobaryo - Bookmaker.mp3
+Feb 23 23:15 : update: added CloudMusic/削除 - Fracture Ray.mp3
+Feb 23 23:15 : update: added CloudMusic/Kobaryo/MIXPEED ACTION/Kobaryo,かめりあ - Villain Virus.mp3
+Feb 23 23:15 : update: added CloudMusic/yourmythos/イノセント/yourmythos - Super attractor.mp3
+Feb 23 23:15 : update: added CloudMusic/Grand Thaw/SOLROS/Grand Thaw - Äventyr.mp3
+Feb 23 23:15 : update: added CloudMusic/DJMAX/DJ MAX PORTABLE O.S.T/Miya - End of the Moonlight.mp3
+Feb 23 23:15 : update: added CloudMusic/DJMAX/DJ MAX PORTABLE BLACK SQUARE O.S.T/DJMAX - Play the Future.mp3
+Feb 23 23:15 : update: added CloudMusic/DJMAX/DJ MAX PORTABLE BLACK SQUARE O.S.T/DJMAX - 바람에게 부탁해 (Live Mix).mp3
+Feb 23 23:15 : update: added CloudMusic/DJMAX/DJMAX Portable 2 Audio Trinity O.S.T. -black- + -white- + -red-/M2U - M2U - Nightmare.mp3
+Feb 23 23:15 : update: added CloudMusic/DJMAX/DJ MAX PORTABLE 2 O.S.T/DJMAX - BLYTHE.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/LiSA/ADAMAS (期間生産限定盤)/LiSA - ADAMAS (TV Size).mp3
+Feb 23 23:15 : update: added CloudMusic/Toby Fox,かめりあ/未知专辑/Toby Fox,かめりあ - Rude Buster (Camellia Remix).mp3
+Feb 23 23:15 : update: added CloudMusic/大原ゆい子/未知专辑/大原ゆい子 - 旅人の唄.mp3
+Feb 23 23:15 : update: added CloudMusic/Rua/Still/Rua - Still (Piano version).mp3
+Feb 23 23:15 : update: added CloudMusic/PTB10/Break the Core/PTB10 - Break the Core.mp3
+Feb 23 23:15 : update: added CloudMusic/PTB10/Intro/PTB10 - Intro.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/technoplanet/旋律世界/technoplanet - Darling Staring… [Long Version].mp3
+Feb 23 23:15 : update: added CloudMusic/technoplanet/多次元宇宙論/technoplanet - 都市の呼吸.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/technoplanet/多次元宇宙論/technoplanet - Curiosity killed the cat.mp3
+Feb 23 23:15 : update: added CloudMusic/technoplanet/多次元宇宙論/technoplanet - XYZ.mp3
+Feb 23 23:15 : update: added CloudMusic/浅羽ロキ/Arcana Idola/浅羽ロキ - Albion.mp3
+Feb 23 23:15 : update: added CloudMusic/VeetaCrush/G2R 2018： Team Murky Spar/VeetaCrush - Sterelogue.mp3
+Feb 23 23:15 : update: added CloudMusic/lixound - extinguisher.mp3
+Feb 23 23:15 : update: added CloudMusic/清水達也/エインヘリャルの蝶と異世界幻術姫/清水達也 - BloodyAssaultMare.mp3
+Feb 23 23:15 : update: added CloudMusic/SLT/M.cy Original Music O.S.T - Latitude/SLT - Latitude (Muse Dash ver).mp3
+Feb 23 23:15 : update: added CloudMusic/Team Grimoire/Restriction/Team Grimoire - Restriction.mp3
+Feb 23 23:15 : update: added CloudMusic/Team Grimoire/Grimoire of Crimson/Team Grimoire - Grimoire of Crimson.mp3
+Feb 23 23:15 : update: added CloudMusic/Team Grimoire/Restriction3/Dj Grimoire - Armaros.mp3
+Feb 23 23:15 : update: added CloudMusic/Team Grimoire/Grimoire of Emerald/Project Grimoire - Caliburne ~Story of the Legendary sword~.mp3
+Feb 23 23:15 : update: added CloudMusic/かめりあ/MEGALOVANIA (Camellia Remix)/かめりあ - MEGALOVANIA (Camellia Remix).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/かめりあ/GALAXY BURST/かめりあ - Bangin' Burst (＂Outburst＂ Long ver.).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/万伟康/MEGALOVANIA（狂妄之人）摇滚翻奏/万伟康 - MEGALOVANIA (狂妄之人).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/万伟康/Minecraft摇滚版BGM改编/万伟康 - Minecraft摇滚版BGM改编.mp3
+Feb 23 23:15 : update: added CloudMusic/万伟康/il vento d'oro (jojo的奇妙冒险 黄金之风处刑曲)/万伟康 - il vento d'oro (jojo的奇妙冒险 黄金之风处刑曲)（翻自 菅野祐悟）.mp3
+Feb 23 23:15 : update: added CloudMusic/万伟康/植物大战僵尸摇滚版BGM改编/万伟康 - Brainiac Maniac (Rock Version)（翻自 Laura Shigihara）.mp3
+Feb 23 23:15 : update: added CloudMusic/梶浦由記/Sword Art Online Original Soundtrack Vol.1/梶浦由記 - Swordland.mp3
+Feb 23 23:15 : update: added CloudMusic/HEKATONCHEIR BEATS/Individual Shred-Core/siromaru,Cranky - conflict.mp3
+Feb 23 23:15 : update: added CloudMusic/深澤秀行/Fate／stay night [Unlimited Blade Works] オリジナルサウンドトラック II/深澤秀行 - エミヤ_UBW Extended.mp3
+Feb 23 23:15 : update: added CloudMusic/Cao Son Nguyen/Deemo on Piano's Second Collection/Cao Son Nguyen,Kaeru Underground - Run Go Run.mp3
+Feb 23 23:15 : update: added CloudMusic/BEMANI Sound Team/SOUND VOLTEX ULTIMATE TRACKS -FLOOR ANTHEM- EP.01/NOMA - Brain Power.mp3
+Feb 23 23:15 : update: added CloudMusic/BEMANI Sound Team/SOUND VOLTEX ULTIMATE TRACKS -LEGEND OF KAC-/かめりあ - Bangin' Burst.mp3
+Feb 23 23:15 : update: added CloudMusic/BEMANI Sound Team/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK VOL.2/かめりあ - Glitch Nerds.mp3
+Feb 23 23:15 : update: added CloudMusic/Kobaryo - Blackbird.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/SEGA/maimaiジューシー★おとりよせBOX/EB - DON'T STOP ROCKIN' (Original MIX).mp3
+Feb 23 23:15 : update: added CloudMusic/SEGA/maimaiジューシー★おとりよせBOX/EB - DON'T STOP ROCKIN'.mp3
+Feb 23 23:15 : update: added CloudMusic/SEGA/maimaiジューシー★おとりよせBOX/t+pazolite - Oshama Scramble!.mp3
+Feb 23 23:15 : update: added CloudMusic/菅野祐悟/ジョジョの奇妙な冒険 スターダストクルセイダース O.S.T[Departure]/菅野祐悟 - 高潔なる教皇.mp3
+Feb 23 23:15 : update: added CloudMusic/未知艺人/未知专辑/Camellia - Glitch Nerds.mp3
+Feb 23 23:15 : update: added CloudMusic/James Landino/Shiro (Cytus II)/James Landino - Shiro (Cytus II).mp3
+Feb 23 23:15 : update: added CloudMusic/NeLiME/CODE NAME ： SIGMA/NeLiME - CODE NAME ： SIGMA.mp3
+Feb 23 23:15 : update: added CloudMusic/WJ - Albert 2 Stone-Eurythmics - Sweet Dreams（WJ Bootleg）（WJ remix）.mp3
+Feb 23 23:15 : update: added CloudMusic/SIHanatsuka/EMber/SIHanatsuka - EMber.mp3
+Feb 23 23:15 : update: added CloudMusic/SIHanatsuka/Luolimasi/SIHanatsuka - Luolimasi.mp3
+Feb 23 23:15 : update: added CloudMusic/SIHanatsuka/Symmetry/SIHanatsuka - Symmetry.mp3
+Feb 23 23:15 : update: added CloudMusic/SIHanatsuka/Rosa Rubus/SIHanatsuka - Rosa Rubus.mp3
+Feb 23 23:15 : update: added CloudMusic/SIHanatsuka/REmorse/SIHanatsuka - REmorse.mp3
+Feb 23 23:15 : update: added CloudMusic/SIHanatsuka/Reset/SIHanatsuka - Reset.mp3
+Feb 23 23:15 : update: added CloudMusic/Se-U-Ra/未知专辑/Se-U-Ra - Igallta.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/Se-U-Ra/未知专辑/Se-U-Ra - 望影の方舟Six.mp3
+Feb 23 23:15 : update: added CloudMusic/Se-U-Ra/Tree Called Elif/Se-U-Ra - Qlifact -another-.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/万伟康from无人周六/高潔なる教皇/万伟康 - 高潔なる教皇 (JOJO的奇妙冒险 花京院典明处刑曲).mp3
+Feb 23 23:15 : update: added CloudMusic/かめりあ - Astronomia(a.k.a Coffin Dance theme)(Camellia Remix).mp3
+Feb 23 23:15 : update: added CloudMusic/獅白ぼたん - Lioness' Pride.mp3
+Feb 23 23:15 : update: added CloudMusic/TatshMusicCircle,清水達也/Blue & Red/清水達也 - 黎明-REIMEI-.mp3
+Feb 23 23:15 : update: added CloudMusic/Neutral Moon/Dead Master/Neutral Moon - Dead Master.mp3
+Feb 23 23:15 : update: added CloudMusic/Silaver/Liberation/Silaver,lixound - Liberation.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/Kizuna AI/Miracle Step/Kizuna AI - miracle step.mp3
+Feb 23 23:15 : update: added CloudMusic/Kizuna AI/Over the Reality/Kizuna AI - over the reality.mp3
+Feb 23 23:15 : update: added CloudMusic/Kizuna AI/AIAIAI/Kizuna AI,中田ヤスタカ - AIAIAI.mp3
+Feb 23 23:15 : update: added CloudMusic/Kizuna AI/Hello, Morning/Kizuna AI - Hello, Morning.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:15 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:15 : update: added CloudMusic/Kizuna AI/New World/Kizuna AI - new world.mp3
+Feb 23 23:15 : update: added CloudMusic/MadHero/Serendipity/MadHero - Save Me.mp3
+Feb 23 23:15 : update: added CloudMusic/Kyle Xian/2018十月动漫新番歌曲合集Vol.1/Kyle Xian - ADAMAS（刀剑神域 第三季 Alicization篇）（Cover LiSA）.mp3
+Feb 23 23:15 : update: added CloudMusic/Kyle Xian/魔法禁书目录 X 某科学的超电磁炮/Kyle Xian - 魔法禁书目录 X 某科学的超电磁炮系列9首佳曲无缝钢琴串烧（only my railgun etc.（翻自 fripSide）.mp3
+Feb 23 23:15 : update: added CloudMusic/Kyle Xian/2019十月动漫新番歌曲合集Vol.1/Kyle Xian - unlasting（刀剑神域 Alicization 暗界篇 ED）（翻自 LiSA）.mp3
+Feb 23 23:15 : update: added CloudMusic/UNISON SQUARE GARDEN/Phantom Joke (初回限定盤)/UNISON SQUARE GARDEN - Phantom Joke.mp3
+Feb 23 23:15 : update: added CloudMusic/お月さま交響曲 - Purgatorium（FULL Ver.）.mp3
+Feb 23 23:15 : update: added CloudMusic/Xtrullor - Cry.mp3
+Feb 23 23:15 : update: added CloudMusic/Apo11o program/ライラック/Apo11o program,森永真由美 - ライラック.mp3
+Feb 23 23:15 : update: added CloudMusic/Catalyst/Glow/Catalyst - Rei.mp3
+Feb 23 23:15 : update: added CloudMusic/HyuN/Infinity Heaven/HyuN - Infinity Heaven.mp3
+Feb 23 23:15 : update: added CloudMusic/HiTECH NINJA/NINJA IS THRILL/lapix - Online (Extended).mp3
+Feb 23 23:15 : update: added CloudMusic/Switchworks/Rest in Peace/Switchworks - Noctimental Journey(From Cytus Ii).mp3
+Feb 23 23:15 : update: added CloudMusic/Sound Souler - Take you to the Heaven.mp3
+Feb 23 23:15 : update: added CloudMusic/かめりあ - Hello (BPM) 2021.mp3
+Feb 23 23:15 : update: added CloudMusic/EAjRock/Re：Boost/EAjRock - Re：Boost feat. Chia.mp3
+Feb 23 23:16 : update: updating CloudMusic/Kizuna AI/Over the Reality/Kizuna AI - over the reality.mp3
+Feb 23 23:16 : update: added CloudMusic/Noriチャ/《赛博朋克：边缘行者》钢混合集/Noriチャ - I Really Want to Stay At Your House（钢琴版）.mp3
+Feb 23 23:16 : update: added CloudMusic/lixound/Dance till Dawn/lixound - Dance till Dawn.mp3
+Feb 23 23:16 : update: added CloudMusic/Various Artists/最新热歌慢摇96/SHK - Halloween Party.mp3
+Feb 23 23:16 : update: added CloudMusic/Various Artists/DJMAX Portable Clazziquai Edition/DJMAX - Ask to wind.mp3
+Feb 23 23:16 : update: added CloudMusic/Various Artists/最新热歌慢摇60/Eyemedia - Bloody Purity.mp3
+Feb 23 23:16 : update: added CloudMusic/Various Artists/最新热歌慢摇109/Noka - Epic Sax Guy.mp3
+Feb 23 23:16 : update: added CloudMusic/Various Artists/Pepsi Sounds Of The 90s Generation/Haddaway - What Is Love.mp3
+Feb 23 23:16 : update: added CloudMusic/Vanguard Sound/Quantum Labyrinth/Vanguard Sound - Quantum Labyrinth Extended Ver.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/V.A/アオハライド O.S.T/Chelsy - I will (On The Piano).mp3
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/Meet You/Kizuna AI - meet you.mp3
+Feb 23 23:16 : update: added CloudMusic/V.A/DJMAX Respect O.S.T/V.A. - Glory day (Extended Version).mp3
+Feb 23 23:16 : update: added CloudMusic/V.A/Groundbreaking -BOFU2017 COMPILATION ALBUM Disc A/Kankitsu - 8bit Adventurer.mp3
+Feb 23 23:16 : update: added CloudMusic/V.A/Groundbreaking -BOFU2016 COMPILATION ALBUM- Disc2/RiraN - Unshakable.mp3
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/mirai/Kizuna AI - mirai.mp3
+Feb 23 23:16 : update: added CloudMusic/V.A/最新热歌慢摇87/小林信一 - To Further Dream.mp3
+Feb 23 23:16 : update: added CloudMusic/V.A/Groundbreaking -BOFU2017 COMPILATION ALBUM/lixound - Break Through The Barrier.mp3
+Feb 23 23:16 : update: added CloudMusic/V.A/Groundbreaking -BOFU2017 COMPILATION ALBUM/Sound Souler - Dead Soul (Long.ver).mp3
+Feb 23 23:16 : update: added CloudMusic/V.A/Groundbreaking -BOFU2017 COMPILATION ALBUM/Chicala Lpis - Blackest Luxury Car.long.mp3
+Feb 23 23:16 : update: added CloudMusic/V.A/Regeneration/TERUFOX - Inari.mp3
+Feb 23 23:16 : update: added CloudMusic/黒皇帝 - Chronostasis.mp3
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/hello, world/Kizuna AI - hello, alone.mp3
+Feb 23 23:16 : update: added CloudMusic/M2U/Masquerade/M2U - Masquerade.mp3
+Feb 23 23:16 : update: added CloudMusic/N.M.S.T/NekoMimi Syndrome/N.M.S.T. - Fur War, Pur War.mp3
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/初音ミク: No such file or directory
+Feb 23 23:16 : update: added CloudMusic/Jiaye/Astronomia (Jiaye Bootleg)/Jiaye - Tony Igy-Astronomia（Jiaye remix）.mp3
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/Melty World/Kizuna AI - melty world.mp3
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/emon (Tes.): No such file or directory
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/初音ミク: No such file or directory
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/VOCALOID: No such file or directory
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/Laur: No such file or directory
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/削除: No such file or directory
+Feb 23 23:16 : update: added CloudMusic/Team Grimoire/Grimoire of Blue/Team Grimoire - Aphasia.mp3
+Feb 23 23:16 : update: added CloudMusic/Rua/Still/Rua,K - Still.mp3
+Feb 23 23:16 : update: added CloudMusic/清水達也/GEMINI/清水達也 - Hydrangea -Game ver-.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/M-Project/Project：Powerstomp 3/Jonjo,M-Project - Pure Powerstomper.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/Frums/Turnstile Jumper/Frums - Turnstile Jumper.mp3
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/N.M.S.T: No such file or directory
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/Umziky: No such file or directory
+Feb 23 23:16 : update: added CloudMusic/V.A/Regeneration/TERUFOX - Inari.mp3
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/アマギセーラ: No such file or directory
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/lixound: No such file or directory
+Feb 23 23:16 : update: added CloudMusic/technoplanet/多次元宇宙論/technoplanet - Legacy.mp3
+Feb 23 23:16 : update: added CloudMusic/Team Grimoire/Restriction3/Dj Grimoire - Bastard of Hardcore.mp3
+Feb 23 23:16 : update: added CloudMusic/Silaver/Eternity EP/Silaver - Eternity ft. Nathan Brumley (Extended Mix).mp3
+Feb 23 23:16 : update: added CloudMusic/SIHanatsuka/ATONEMENT/SIHanatsuka - ATONEMENT.mp3
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/Aillder Monak: No such file or directory
+Feb 23 23:16 : update: added CloudMusic/HiTECH NINJA/NINJA IS THRILL/lapix - Blah!! (Extended).mp3
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/森永真由美: No such file or directory
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/Aillder Monak/Neko live/Aillder Monak - Cytus 2-Mammal (Original Vision)(Just For Love)（Aillder Monak remix）.mp3
+Feb 23 23:16 : update: added CloudMusic/Sound Souler - Paradise.mp3
+Feb 23 23:16 : update: added CloudMusic/Reol,Giga - No title.mp3
+Feb 23 23:16 : update: added CloudMusic/初音ミク/HATSUNE MIKU EXPO 2016 E.P/初音ミク,GuitarHeroPianoZero - Glass Wall.mp3
+Feb 23 23:16 : update: added CloudMusic/初音ミク/HATSUNE MIKU EXPO 2016 E.P/初音ミク,CircusP - Ten Thousand Stars.mp3
+Feb 23 23:16 : update: added CloudMusic/初音ミク/HATSUNE MIKU EXPO 2016 E.P/初音ミク,P＊Light - Blue Star.mp3
+Feb 23 23:16 : update: added CloudMusic/初音ミク/HATSUNE MIKU EXPO 5th Anniversary E.P/初音ミク,OSTER project - 魔法みたいなミュージック！.mp3
+Feb 23 23:16 : update: added CloudMusic/初音ミク/HATSUNE MIKU EXPO 5th Anniversary E.P/初音ミク - ラッキー☆オーブ.mp3
+Feb 23 23:16 : update: added CloudMusic/Deepshout/ViRUS/Deepshout - ViRUS.mp3
+Feb 23 23:16 : update: added CloudMusic/ginkiha/Shade of Mythology/ginkiha - Fading Star.mp3
+Feb 23 23:16 : update: added CloudMusic/Rising Sun Traxx/Distorted Twins mini/SOTUI,Kry.exe - What's Your PR.Ice？.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/KIVΛ/Perspectives/KIVΛ,Nikki Simmons - Perspectives.mp3
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/夜绘_Fav0urGraC1: No such file or directory
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/Frums/dimensionalize nervous breakdown (rev.flat)/Frums - dimensionalize nervous breakdown (rev.flat).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/James Landino/Login (From ＂Cytus II＂)/James Landino - Login (From ＂Cytus II＂).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/Frums/Turnstile Jumper/Frums - Turnstile Jumper.mp3
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/昼夜: No such file or directory
+Feb 23 23:16 : update: added CloudMusic/V.A/アオハライド O.S.T/Chelsy - I will (On The Piano).mp3
+Feb 23 23:16 : update: added CloudMusic/Frums/VIS：：CRACKED/Frums - VIS：：CRACKED.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/KIVΛ/Perspectives/KIVΛ,Nikki Simmons - Perspectives.mp3
+Feb 23 23:16 : update: added CloudMusic/KIVΛ/Qualia/KIVΛ - Qualia.mp3
+Feb 23 23:16 : update: added CloudMusic/KIVΛ/Cytus II Opening - The Whole Rest/KIVΛ - Cytus II Opening - The Whole Rest.mp3
+Feb 23 23:16 : update: added CloudMusic/KIVΛ/Cytus II Theme - Used to be/KIVΛ - Cytus II Theme - Used to be.mp3
+Feb 23 23:16 : update: added CloudMusic/Sound Souler/World Against/Sound Souler - Reinvent.mp3
+Feb 23 23:16 : update: added CloudMusic/Kirara Records/Kirara Anthems vol.3/O2i3 - Heart Function.mp3
+Note: Illegal Audio-MPEG-Header 0xffe50221 at offset 13971.
+Note: Trying to resync...
+Note: Skipped 11 bytes in input.
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/Kobaryo - Bookmaker.mp3
+Feb 23 23:16 : update: added CloudMusic/削除 - Fracture Ray.mp3
+Feb 23 23:16 : update: added CloudMusic/Kobaryo/MIXPEED ACTION/Kobaryo,かめりあ - Villain Virus.mp3
+Feb 23 23:16 : update: added CloudMusic/yourmythos/イノセント/yourmythos - Super attractor.mp3
+Feb 23 23:16 : update: added CloudMusic/Grand Thaw/SOLROS/Grand Thaw - Äventyr.mp3
+Feb 23 23:16 : update: added CloudMusic/DJMAX/DJ MAX PORTABLE O.S.T/Miya - End of the Moonlight.mp3
+Feb 23 23:16 : update: added CloudMusic/DJMAX/DJ MAX PORTABLE BLACK SQUARE O.S.T/DJMAX - Play the Future.mp3
+Feb 23 23:16 : update: added CloudMusic/DJMAX/DJ MAX PORTABLE BLACK SQUARE O.S.T/DJMAX - 바람에게 부탁해 (Live Mix).mp3
+Feb 23 23:16 : update: added CloudMusic/DJMAX/DJMAX Portable 2 Audio Trinity O.S.T. -black- + -white- + -red-/M2U - M2U - Nightmare.mp3
+Feb 23 23:16 : update: added CloudMusic/DJMAX/DJ MAX PORTABLE 2 O.S.T/DJMAX - BLYTHE.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/LiSA/ADAMAS (期間生産限定盤)/LiSA - ADAMAS (TV Size).mp3
+Feb 23 23:16 : update: added CloudMusic/Toby Fox,かめりあ/未知专辑/Toby Fox,かめりあ - Rude Buster (Camellia Remix).mp3
+Feb 23 23:16 : update: added CloudMusic/大原ゆい子/未知专辑/大原ゆい子 - 旅人の唄.mp3
+Feb 23 23:16 : update: added CloudMusic/Rua/Still/Rua - Still (Piano version).mp3
+Feb 23 23:16 : update: added CloudMusic/Rua/Still/Rua,K - Still.mp3
+Feb 23 23:16 : update: added CloudMusic/PTB10/Break the Core/PTB10 - Break the Core.mp3
+Feb 23 23:16 : update: added CloudMusic/PTB10/Intro/PTB10 - Intro.mp3
+Feb 23 23:16 : update: added CloudMusic/emon (Tes.)/Lucky☆Orb/emon (Tes.),初音ミク - ラッキー☆オーブ.mp3
+Feb 23 23:16 : update: added CloudMusic/削除/WARZ0NE/削除 - Instinct.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/technoplanet/旋律世界/technoplanet - Darling Staring… [Long Version].mp3
+Feb 23 23:16 : update: added CloudMusic/technoplanet/多次元宇宙論/technoplanet - 都市の呼吸.mp3
+Feb 23 23:16 : update: added CloudMusic/technoplanet/多次元宇宙論/technoplanet - Legacy.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/technoplanet/多次元宇宙論/technoplanet - Curiosity killed the cat.mp3
+Feb 23 23:16 : update: added CloudMusic/technoplanet/多次元宇宙論/technoplanet - XYZ.mp3
+Feb 23 23:16 : update: added CloudMusic/昼夜/哄你入睡/昼夜 - 【钢琴】千与千寻 always with me（Cover 久石让）.mp3
+Feb 23 23:16 : update: added CloudMusic/森永真由美/All that is. Is that all？/森永真由美 - リラ #ΦωΦ_AI_MIX.mp3
+Feb 23 23:16 : update: added CloudMusic/Umziky/Bass Music/Umziky - Bass Music.mp3
+Feb 23 23:16 : update: added CloudMusic/浅羽ロキ/Arcana Idola/浅羽ロキ - Albion.mp3
+Feb 23 23:16 : update: added CloudMusic/VeetaCrush/G2R 2018： Team Murky Spar/VeetaCrush - Sterelogue.mp3
+Feb 23 23:16 : update: added CloudMusic/lixound - extinguisher.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : ffmpeg/flac: Discarding ID3 tags because more suitable tags were found.
+Feb 23 23:16 : update: added CloudMusic/MrLi小哥/MrLi小哥个人演奏全收录/MrLi小哥 - Hometown まももP.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : ffmpeg/flac: Discarding ID3 tags because more suitable tags were found.
+Feb 23 23:16 : update: added CloudMusic/夜绘_Fav0urGraC1/Call Of Silence（钢琴翻弹）/夜绘_Fav0urGraC1 - Call of Silence（钢琴翻弹）.mp3
+Feb 23 23:16 : update: added CloudMusic/清水達也/GEMINI/清水達也 - Hydrangea -Game ver-.mp3
+Feb 23 23:16 : update: added CloudMusic/清水達也/エインヘリャルの蝶と異世界幻術姫/清水達也 - BloodyAssaultMare.mp3
+Feb 23 23:16 : update: added CloudMusic/SLT/M.cy Original Music O.S.T - Latitude/SLT - Latitude (Muse Dash ver).mp3
+Feb 23 23:16 : update: added CloudMusic/アマギセーラ/星喚びの蒼き森/アマギセーラ - Starry Summoner.mp3
+Feb 23 23:16 : update: added CloudMusic/Team Grimoire/Restriction/Team Grimoire - Restriction.mp3
+Feb 23 23:16 : update: added CloudMusic/Team Grimoire/Grimoire of Crimson/Team Grimoire - Grimoire of Crimson.mp3
+Feb 23 23:16 : update: added CloudMusic/Team Grimoire/Grimoire of Blue/Team Grimoire - Aphasia.mp3
+Feb 23 23:16 : update: added CloudMusic/Team Grimoire/Restriction3/Dj Grimoire - Armaros.mp3
+Feb 23 23:16 : update: added CloudMusic/Team Grimoire/Restriction3/Dj Grimoire - Bastard of Hardcore.mp3
+Feb 23 23:16 : update: added CloudMusic/Team Grimoire/Grimoire of Emerald/Project Grimoire - Caliburne ~Story of the Legendary sword~.mp3
+Feb 23 23:16 : update: added CloudMusic/かめりあ/MEGALOVANIA (Camellia Remix)/かめりあ - MEGALOVANIA (Camellia Remix).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/かめりあ/GALAXY BURST/かめりあ - Bangin' Burst (＂Outburst＂ Long ver.).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/万伟康/MEGALOVANIA（狂妄之人）摇滚翻奏/万伟康 - MEGALOVANIA (狂妄之人).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/万伟康/Minecraft摇滚版BGM改编/万伟康 - Minecraft摇滚版BGM改编.mp3
+Feb 23 23:16 : update: added CloudMusic/万伟康/il vento d'oro (jojo的奇妙冒险 黄金之风处刑曲)/万伟康 - il vento d'oro (jojo的奇妙冒险 黄金之风处刑曲)（翻自 菅野祐悟）.mp3
+Feb 23 23:16 : update: added CloudMusic/万伟康/植物大战僵尸摇滚版BGM改编/万伟康 - Brainiac Maniac (Rock Version)（翻自 Laura Shigihara）.mp3
+Feb 23 23:16 : update: added CloudMusic/梶浦由記/Sword Art Online Original Soundtrack Vol.1/梶浦由記 - Swordland.mp3
+Feb 23 23:16 : update: added CloudMusic/HEKATONCHEIR BEATS/Individual Shred-Core/siromaru,Cranky - conflict.mp3
+Feb 23 23:16 : update: added CloudMusic/深澤秀行/Fate／stay night [Unlimited Blade Works] オリジナルサウンドトラック II/深澤秀行 - エミヤ_UBW Extended.mp3
+Feb 23 23:16 : update: added CloudMusic/Cao Son Nguyen/Deemo on Piano's Second Collection/Cao Son Nguyen,Kaeru Underground - Run Go Run.mp3
+Feb 23 23:16 : update: added CloudMusic/VOCALOID/初耳/初音ミク - 月.西江.mp3
+Feb 23 23:16 : update: added CloudMusic/BEMANI Sound Team/SOUND VOLTEX ULTIMATE TRACKS -FLOOR ANTHEM- EP.01/NOMA - Brain Power.mp3
+Feb 23 23:16 : update: added CloudMusic/BEMANI Sound Team/SOUND VOLTEX ULTIMATE TRACKS -LEGEND OF KAC-/かめりあ - Bangin' Burst.mp3
+Feb 23 23:16 : update: added CloudMusic/BEMANI Sound Team/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK VOL.2/かめりあ - Glitch Nerds.mp3
+Feb 23 23:16 : update: added CloudMusic/Kobaryo - Blackbird.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/SEGA/maimaiジューシー★おとりよせBOX/EB - DON'T STOP ROCKIN' (Original MIX).mp3
+Feb 23 23:16 : update: added CloudMusic/SEGA/maimaiジューシー★おとりよせBOX/EB - DON'T STOP ROCKIN'.mp3
+Feb 23 23:16 : update: added CloudMusic/SEGA/maimaiジューシー★おとりよせBOX/t+pazolite - Oshama Scramble!.mp3
+Feb 23 23:16 : update: added CloudMusic/菅野祐悟/ジョジョの奇妙な冒険 スターダストクルセイダース O.S.T[Departure]/菅野祐悟 - 高潔なる教皇.mp3
+Feb 23 23:16 : update: added CloudMusic/未知艺人/未知专辑/Camellia - Glitch Nerds.mp3
+Feb 23 23:16 : update: added CloudMusic/James Landino/Shiro (Cytus II)/James Landino - Shiro (Cytus II).mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/James Landino/Login (From ＂Cytus II＂)/James Landino - Login (From ＂Cytus II＂).mp3
+Feb 23 23:16 : update: added CloudMusic/NeLiME/CODE NAME ： SIGMA/NeLiME - CODE NAME ： SIGMA.mp3
+Feb 23 23:16 : update: added CloudMusic/WJ - Albert 2 Stone-Eurythmics - Sweet Dreams（WJ Bootleg）（WJ remix）.mp3
+Feb 23 23:16 : update: added CloudMusic/SIHanatsuka/EMber/SIHanatsuka - EMber.mp3
+Feb 23 23:16 : update: added CloudMusic/SIHanatsuka/Luolimasi/SIHanatsuka - Luolimasi.mp3
+Feb 23 23:16 : update: added CloudMusic/SIHanatsuka/Symmetry/SIHanatsuka - Symmetry.mp3
+Feb 23 23:16 : update: added CloudMusic/SIHanatsuka/Rosa Rubus/SIHanatsuka - Rosa Rubus.mp3
+Feb 23 23:16 : update: added CloudMusic/SIHanatsuka/REmorse/SIHanatsuka - REmorse.mp3
+Feb 23 23:16 : update: added CloudMusic/SIHanatsuka/Reset/SIHanatsuka - Reset.mp3
+Feb 23 23:16 : update: added CloudMusic/SIHanatsuka/ATONEMENT/SIHanatsuka - ATONEMENT.mp3
+Feb 23 23:16 : update: added CloudMusic/Se-U-Ra/未知专辑/Se-U-Ra - Igallta.mp3
+Feb 23 23:16 : update: added CloudMusic/Se-U-Ra/未知专辑/Se-U-Ra - 望影の方舟Six.mp3
+Feb 23 23:16 : update: added CloudMusic/Se-U-Ra/Tree Called Elif/Se-U-Ra - Qlifact -another-.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/万伟康from无人周六/高潔なる教皇/万伟康 - 高潔なる教皇 (JOJO的奇妙冒险 花京院典明处刑曲).mp3
+Feb 23 23:16 : update: added CloudMusic/Laur/L'Ultima Cena/Laur - L'Ultima Cena.mp3
+Feb 23 23:16 : update: added CloudMusic/かめりあ - Astronomia(a.k.a Coffin Dance theme)(Camellia Remix).mp3
+Feb 23 23:16 : update: added CloudMusic/獅白ぼたん - Lioness' Pride.mp3
+Feb 23 23:16 : update: added CloudMusic/TatshMusicCircle,清水達也/Blue & Red/清水達也 - 黎明-REIMEI-.mp3
+Feb 23 23:16 : update: added CloudMusic/Neutral Moon/Dead Master/Neutral Moon - Dead Master.mp3
+Feb 23 23:16 : update: added CloudMusic/Silaver/Eternity EP/Silaver - Eternity ft. Nathan Brumley (Extended Mix).mp3
+Feb 23 23:16 : update: added CloudMusic/Silaver/Liberation/Silaver,lixound - Liberation.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/Miracle Step/Kizuna AI - miracle step.mp3
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/Over the Reality/Kizuna AI - over the reality.mp3
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/AIAIAI/Kizuna AI,中田ヤスタカ - AIAIAI.mp3
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/Hello, Morning/Kizuna AI - Hello, Morning.mp3
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/Melty World/Kizuna AI - melty world.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/New World/Kizuna AI - new world.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:16 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/Meet You/Kizuna AI - meet you.mp3
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/hello, world/Kizuna AI - hello, alone.mp3
+Feb 23 23:16 : update: added CloudMusic/Kizuna AI/mirai/Kizuna AI - mirai.mp3
+Feb 23 23:16 : update: added CloudMusic/MadHero/Serendipity/MadHero - Save Me.mp3
+Feb 23 23:16 : update: added CloudMusic/Kyle Xian/2018十月动漫新番歌曲合集Vol.1/Kyle Xian - ADAMAS（刀剑神域 第三季 Alicization篇）（Cover LiSA）.mp3
+Feb 23 23:16 : update: added CloudMusic/Kyle Xian/魔法禁书目录 X 某科学的超电磁炮/Kyle Xian - 魔法禁书目录 X 某科学的超电磁炮系列9首佳曲无缝钢琴串烧（only my railgun etc.（翻自 fripSide）.mp3
+Feb 23 23:16 : update: added CloudMusic/Kyle Xian/2019十月动漫新番歌曲合集Vol.1/Kyle Xian - unlasting（刀剑神域 Alicization 暗界篇 ED）（翻自 LiSA）.mp3
+Feb 23 23:16 : update: added CloudMusic/UNISON SQUARE GARDEN/Phantom Joke (初回限定盤)/UNISON SQUARE GARDEN - Phantom Joke.mp3
+Feb 23 23:16 : update: added CloudMusic/お月さま交響曲 - Purgatorium（FULL Ver.）.mp3
+Feb 23 23:16 : update: added CloudMusic/Xtrullor - Cry.mp3
+Feb 23 23:16 : update: added CloudMusic/Apo11o program/ライラック/Apo11o program,森永真由美 - ライラック.mp3
+Feb 23 23:16 : update: added CloudMusic/Catalyst/Glow/Catalyst - Rei.mp3
+Feb 23 23:16 : update: added CloudMusic/HyuN/Infinity Heaven/HyuN - Infinity Heaven.mp3
+Feb 23 23:16 : update: added CloudMusic/HiTECH NINJA/NINJA IS THRILL/lapix - Online (Extended).mp3
+Feb 23 23:16 : update: added CloudMusic/HiTECH NINJA/NINJA IS THRILL/lapix - Blah!! (Extended).mp3
+Feb 23 23:16 : update: added CloudMusic/Sajo/希望初始/Sajo - 文乃的幸福理论（Piano ver）（Cover ひとみ瞳）.mp3
+Feb 23 23:16 : update: added CloudMusic/Sajo/Weathering With You Piano Ver/Sajo - 愛にできることはまだあるかい Piano Ver.mp3
+Feb 23 23:16 : update: added CloudMusic/Switchworks/Rest in Peace/Switchworks - Noctimental Journey(From Cytus Ii).mp3
+Feb 23 23:16 : update: added CloudMusic/Sound Souler - Take you to the Heaven.mp3
+Feb 23 23:16 : update: added CloudMusic/かめりあ - Hello (BPM) 2021.mp3
+Feb 23 23:16 : update: added CloudMusic/EAjRock/Re：Boost/EAjRock - Re：Boost feat. Chia.mp3
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/Noriチャ: No such file or directory
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/Sajo: No such file or directory
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/MrLi小哥: No such file or directory
+Feb 23 23:16 : exception: Failed to access /home/kongjian/Music/Sajo: No such file or directory
+Feb 23 23:17 : update: added CloudMusic/V.A/最新热歌慢摇100/Animenz - 光るなら (钢琴版).mp3
+Feb 23 23:17 : update: added CloudMusic/Kyle Xian/2015最佳动漫歌曲钢琴即兴Vol.2/Kyle Xian - オレンジ（四月是你的谎言 ED）.mp3
+Feb 23 23:17 : update: added CloudMusic/Kyle Xian/《四月是你的谎言》钢琴合集/Kyle Xian - キラメキ（四月是你的谎言 ED）（Cover wacci）.mp3
+Feb 23 23:17 : exception: Failed to access /home/kongjian/Music/斧头龟0v0: No such file or directory
+Feb 23 23:17 : exception: Failed to access /home/kongjian/Music/昼夜: No such file or directory
+Feb 23 23:17 : update: added CloudMusic/V.A/最新热歌慢摇100/Animenz - 光るなら (钢琴版).mp3
+Feb 23 23:17 : update: added CloudMusic/Kyle Xian/2015最佳动漫歌曲钢琴即兴Vol.2/Kyle Xian - オレンジ（四月是你的谎言 ED）.mp3
+Feb 23 23:17 : update: added CloudMusic/Kyle Xian/《四月是你的谎言》钢琴合集/Kyle Xian - キラメキ（四月是你的谎言 ED）（Cover wacci）.mp3
+Feb 23 23:17 : exception: Failed to access /home/kongjian/Music/斧头龟0v0: No such file or directory
+Feb 23 23:17 : update: added CloudMusic/昼夜/囿于昼夜/昼夜 - 前前前世 Piano ver.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:17 : update: added CloudMusic/Noriチャ/动画电影《朝花夕拾》/Noriチャ - 朝花夕誓——于离别之朝束起约定之花.mp3
+Feb 23 23:17 : exception: Failed to access /home/kongjian/Music/Noriチャ: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/1n: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/1n: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/昼夜/囿于昼夜/昼夜 - 黄昏之时.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/九玖橙儿: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇100/Animenz - 罪恶王冠OP1 My Dearest(第一乐章) (钢琴版).mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇100/Animenz - 罪恶王冠ost Bios(第三乐章)拔剑曲 (钢琴版).mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/澤野弘之: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Animenz: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/横山克: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/横山克: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2015最佳动漫歌曲钢琴即兴Vol.1/Kyle Xian - Ring of Fortune（可塑性记忆OP）.mp3
+Feb 23 23:21 : update: added CloudMusic/Sajo/终将成为你OP+ED(Piano)/Sajo - 君にふれて-（Piano Ver）.mp3
+Feb 23 23:21 : update: added CloudMusic/Sajo/终将成为你OP+ED(Piano)/Sajo - hectopascal-（Piano Ver）.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/姜创钢琴: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Apr光: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/曼曼的钢琴城堡: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/PaRaD1SE: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇118/Animenz - 青鸟-钢琴版.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇19/V.A. - 宾克斯的美酒.mp3
+Feb 23 23:21 : update: added CloudMusic/昼夜/哄你入睡 II/昼夜 - 【钢琴】Rain 言叶之庭 OST.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/まらしぃ: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2017十月动漫新番歌曲合集Vol.2/Kyle Xian - 安室奈美惠 - Hope（海贼王One Piece OP20）.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/中西亮輔: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/林有三: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/昼夜/哄你入睡/昼夜 - 【钢琴】恋爱循环（Cover 花泽香菜）.mp3
+Feb 23 23:21 : update: added CloudMusic/昼夜/哄你入睡/昼夜 - 【钢琴】团子大家族（Cover 茶太）.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/斧头龟0v0: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/无水醋酸铜: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/姚海威: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/斧头龟0v0: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/PaRaD1SE: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/PaRaD1SE: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/1n: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/1n: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/昼夜: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/九玖橙儿: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇100/Animenz - 罪恶王冠OP1 My Dearest(第一乐章) (钢琴版).mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇100/Animenz - 罪恶王冠ost Bios(第三乐章)拔剑曲 (钢琴版).mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/澤野弘之: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Animenz: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/横山克: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/横山克: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2015最佳动漫歌曲钢琴即兴Vol.1/Kyle Xian - Ring of Fortune（可塑性记忆OP）.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Sajo: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/姜创钢琴: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Apr光: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/曼曼的钢琴城堡: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/PaRaD1SE: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇118/Animenz - 青鸟-钢琴版.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇19/V.A. - 宾克斯的美酒.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/昼夜: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/まらしぃ: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2017十月动漫新番歌曲合集Vol.2/Kyle Xian - 安室奈美惠 - Hope（海贼王One Piece OP20）.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/中西亮輔: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/林有三: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/昼夜: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/斧头龟0v0: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/无水醋酸铜: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/姚海威: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/斧头龟0v0: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/PaRaD1SE: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/PaRaD1SE: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Video Game Orchestra: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Video Game Orchestra: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇109/削除 - Rainbow Night Sky Highway.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇109/削除 - Rainbow Night Sky Highway.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇109/Various Artists - THE LAST ILLUSION.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇109/Various Artists - THE LAST ILLUSION.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇109/NOCTURNE MOONRISE - GATE OF EXPECTANCY.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇109/NOCTURNE MOONRISE - GATE OF EXPECTANCY.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇109/Various Artists - AQUATIC POSEIDON.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇109/Various Artists - AQUATIC POSEIDON.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/Verdammt - Adventure -ぼうけん-.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/Verdammt - Adventure -ぼうけん-.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/3R2 - LETS GO ON AN ADVENTURE.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/3R2 - LETS GO ON AN ADVENTURE.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/siromaru,Cranky - Conflict.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/Yamajet - Jump To The Future.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/siromaru,Cranky - Conflict.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/KillerBlood - FIGHT WITH YOUR DEVIL.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/Yamajet - Jump To The Future.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/削除 - VIT master.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/KillerBlood - Theme Of Kingdom NO. 8.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/siromaru,Cranky - Conflict (YM2151 Edit).mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/KillerBlood - FIGHT WITH YOUR DEVIL.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/削除 - VIT master.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/RABPIT - Dream (Chiptune Edit).mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/KillerBlood - Theme Of Kingdom NO. 8.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/siromaru,Cranky - Conflict (YM2151 Edit).mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Rayark: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Rayark: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Lugh Lamhfhata: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/V.A/Cytus R/RABPIT - Dream (Chiptune Edit).mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Rayark: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Rayark: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Lugh Lamhfhata: No such file or directory
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:21 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:21 : update: added CloudMusic/Team Grimoire/Grimoire of Emerald/Project Grimoire - Brionac ~Lugh Lamhfhata~.mp3
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:21 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:21 : update: added CloudMusic/Team Grimoire/Grimoire of Emerald/Project Grimoire - Brionac ~Lugh Lamhfhata~.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇116/まらしぃ - 72首动漫名曲钢琴演奏.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇116/まらしぃ - 72首动漫名曲钢琴演奏.mp3
+Feb 23 23:21 : update: added CloudMusic/NeLiME/CODE NAME ： ZERO/NeLiME - CODE NAME： ZERO.mp3
+Feb 23 23:21 : update: added CloudMusic/NeLiME/CODE NAME ： ZERO/NeLiME - CODE NAME： ZERO.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Rayark: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/守夜人: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/Hoskey - Code 03.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Rayark: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/守夜人: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/orangentle - Morpho.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/Hoskey - Her Sword.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/Hoskey - Code 03.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/Ebico,jioyi - Ø （SLIT）.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/orangentle - Morpho.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/jioyi - Ø （SLIT） I.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/Hoskey - Her Sword.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/BAROQUE - Scherzo.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/3R2: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/Ebico,jioyi - Ø （SLIT）.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/出羽良彰: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/SHK: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/NeLiME/First Gate/NeLiME - FIRST GATE.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/jioyi - Ø （SLIT） I.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇111/BAROQUE - Scherzo.mp3
+Feb 23 23:21 : update: added CloudMusic/NeLiME/First Gate -OVERDRIVE-/NeLiME - FIRST GATE OVERDRIVE.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/3R2: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/出羽良彰: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/SHK: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Hero.C: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/BRO's: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/NeLiME/First Gate/NeLiME - FIRST GATE.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇87/ICE BIRD STUDIO - Hot Air Balloon.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/群星: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/NeLiME/First Gate -OVERDRIVE-/NeLiME - FIRST GATE OVERDRIVE.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇84/Franz Liszt - La Campanella.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Cranky: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Hero.C: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/BRO's: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇108/Animenz - Only My Railgun.mp3
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇87/ICE BIRD STUDIO - Hot Air Balloon.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/沙野カモメ: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/童嘎: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/群星: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Various Artists/The 99 Most Essential Pieces of Classica/Johannes Somary,Amor Artis Chamber Choir,Amor Artis Orchestra - Requiem Mass in D Minor, K. 626：III. Dies.mp3
+Feb 23 23:21 : update: added CloudMusic/Various Artists/最新热歌慢摇84/Franz Liszt - La Campanella.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/坂本英城: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Tunguska Electronic Music Society: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Cranky: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇108/Animenz - Only My Railgun.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/沙野カモメ: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/童嘎: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Various Artists/The 99 Most Essential Pieces of Classica/Johannes Somary,Amor Artis Chamber Choir,Amor Artis Orchestra - Requiem Mass in D Minor, K. 626：III. Dies.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/坂本英城: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Tunguska Electronic Music Society: No such file or directory
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:21 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:21 : update: added CloudMusic/Various Artists/Mad About the Classics/Ludwig van Beethoven - Symphony No. 5 - Allegro con brio.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Leaf: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/まらしぃ: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/百石元: No such file or directory
+[src/libmpg123/parse.c:skip_junk():1300] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Feb 23 23:21 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Feb 23 23:21 : update: added CloudMusic/Various Artists/Mad About the Classics/Ludwig van Beethoven - Symphony No. 5 - Allegro con brio.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Leaf: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/まらしぃ: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/百石元: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/七瀬光: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/BRO's: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/觉醒之心: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇92/GUMI - coma.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Sajo/事自闭小短曲/Sajo - 君のせい-青春猪头少年不会梦到兔女郎学姐OP（Piano Ver）.mp3
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2017十月动漫新番歌曲合集Vol.1/Kyle Xian - 妹S - うまるん体操 ~ 小埋体操（干物妹！小埋R ED）（干物妹小埋 第二季）.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/出羽良彰: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2019一月动漫新番歌曲合集Vol.4/Kyle Xian - きみの名前（盾之勇者成名录 ED）（翻自 藤川千爱）.mp3
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2019一月动漫新番歌曲合集Vol.4/Kyle Xian - 僕の中の君へ（关于我转生变成史莱姆这档事 第23集插曲）.mp3
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2017四月动漫新番歌曲钢琴即兴Vol.3/Kyle Xian - 夏色恋花火（埃罗芒阿老师／黄漫老师 ED）（Cover 和泉纱雾（CV：藤田茜））.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/MONACA: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/中西亮輔: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Oturans: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/まらしぃ: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/松田彬人: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/恰见明月栖山: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Sajo/辉夜大小姐想让我告白（Piano Ver）/Sajo - ラブドラマティック-辉夜大小姐想让我告白OP(Piano Ver.)（翻自 鈴木雅之）.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Ice: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/七瀬光: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/BRO's: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/觉醒之心: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/V.A/最新热歌慢摇92/GUMI - coma.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Sajo: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2017十月动漫新番歌曲合集Vol.1/Kyle Xian - 妹S - うまるん体操 ~ 小埋体操（干物妹！小埋R ED）（干物妹小埋 第二季）.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/出羽良彰: No such file or directory
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2019一月动漫新番歌曲合集Vol.4/Kyle Xian - きみの名前（盾之勇者成名录 ED）（翻自 藤川千爱）.mp3
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2019一月动漫新番歌曲合集Vol.4/Kyle Xian - 僕の中の君へ（关于我转生变成史莱姆这档事 第23集插曲）.mp3
+Feb 23 23:21 : update: added CloudMusic/Kyle Xian/2017四月动漫新番歌曲钢琴即兴Vol.3/Kyle Xian - 夏色恋花火（埃罗芒阿老师／黄漫老师 ED）（Cover 和泉纱雾（CV：藤田茜））.mp3
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/MONACA: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/中西亮輔: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Oturans: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/まらしぃ: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/松田彬人: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/KAMIKU: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/恰见明月栖山: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Sajo: No such file or directory
+Feb 23 23:21 : exception: Failed to access /home/kongjian/Music/Ice: No such file or directory
+Feb 23 23:33 : zeroconf: No global port, disabling zeroconf
+Feb 24 07:56 : zeroconf: No global port, disabling zeroconf
+Feb 24 07:58 : zeroconf: No global port, disabling zeroconf
+Feb 24 11:26 : zeroconf: No global port, disabling zeroconf
+Feb 24 11:29 : zeroconf: No global port, disabling zeroconf
+Feb 24 11:44 : zeroconf: No global port, disabling zeroconf
+Feb 24 11:57 : zeroconf: No global port, disabling zeroconf
+Feb 24 12:28 : zeroconf: No global port, disabling zeroconf
+Feb 24 13:49 : zeroconf: No global port, disabling zeroconf
+Feb 27 19:32 : zeroconf: No global port, disabling zeroconf
+Feb 27 21:28 : zeroconf: No global port, disabling zeroconf
+Feb 27 22:00 : zeroconf: No global port, disabling zeroconf
